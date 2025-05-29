@@ -2,6 +2,7 @@ NAME: NIRANJAN V
 
 REG NO: 212224110042
 
+
 #  EX - 01 Mean and variance of a discrete  distribution
 
 
